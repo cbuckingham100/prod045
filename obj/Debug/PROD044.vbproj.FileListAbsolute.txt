@@ -1,0 +1,14 @@
+F:\PROJECTS\LinxDev\VB.NET\PROD044\obj\Debug\PROD044.vbprojResolveAssemblyReference.cache
+F:\PROJECTS\LinxDev\VB.NET\PROD044\obj\Debug\PROD044.frmMain.resources
+F:\PROJECTS\LinxDev\VB.NET\PROD044\obj\Debug\PROD044.Resources.resources
+F:\PROJECTS\LinxDev\VB.NET\PROD044\obj\Debug\PROD044.vbproj.GenerateResource.Cache
+F:\PROJECTS\LinxDev\VB.NET\PROD044\obj\Debug\PROD044.xml
+F:\PROJECTS\LinxDev\VB.NET\PROD044\bin\Debug\PROD044.exe.config
+F:\PROJECTS\LinxDev\VB.NET\PROD044\bin\Debug\PROD044.exe
+F:\PROJECTS\LinxDev\VB.NET\PROD044\bin\Debug\PROD044.pdb
+F:\PROJECTS\LinxDev\VB.NET\PROD044\bin\Debug\PROD044.xml
+F:\PROJECTS\LinxDev\VB.NET\PROD044\bin\Debug\LinxLib.dll
+F:\PROJECTS\LinxDev\VB.NET\PROD044\bin\Debug\LinxLib.pdb
+F:\PROJECTS\LinxDev\VB.NET\PROD044\bin\Debug\LinxLib.xml
+F:\PROJECTS\LinxDev\VB.NET\PROD044\obj\Debug\PROD044.exe
+F:\PROJECTS\LinxDev\VB.NET\PROD044\obj\Debug\PROD044.pdb
