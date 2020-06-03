@@ -16,7 +16,7 @@ Public Class frmMain
 
     Public bDebugMode As Boolean = False
 
-    Public sExeVersion As String = "1.0"
+    Public sExeVersion As String = "1.00"
 
     Private DaqBoard As MccDaq.MccBoard = New MccDaq.MccBoard(0)
 
