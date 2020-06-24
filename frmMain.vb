@@ -1,22 +1,11 @@
-﻿Imports System.Drawing.Printing
-Imports System.Data.SqlClient
-
-Imports LinxLib.DataLib
-Imports LinxLib.CommonLib
-Imports LinxLib.Settings
-Imports LinxLib.XMLLib
-Imports LinxLib.LinxmasterLib
-Imports LinxLib
-Imports System.Windows.Forms
-
-Public Class frmMain
+﻿Public Class frmMain
     Inherits System.Windows.Forms.Form
 
     Public MySettings As New Settings()
 
     Public bDebugMode As Boolean = False
 
-    Public sExeVersion As String = "1.00"
+    Public sExeVersion As String = "1.01"
 
     Private DaqBoard As MccDaq.MccBoard = New MccDaq.MccBoard(0)
 

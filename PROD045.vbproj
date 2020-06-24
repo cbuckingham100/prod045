@@ -67,13 +67,12 @@
     <ApplicationIcon>linx-red.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="LinxLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\LinxLib\bin\Debug\LinxLib.dll</HintPath>
+    <Reference Include="LinxLib">
+      <HintPath>..\LinxLib\bin\Debug\LinxLib.dll</HintPath>
     </Reference>
     <Reference Include="MccDaq, Version=2.1.0.0, Culture=neutral, PublicKeyToken=a37eefcf5c6ca10a, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>.\MccDaq.dll</HintPath>
+      <HintPath>..\LinxLib\MccDaq.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Configuration" />
@@ -175,11 +174,8 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="DaqLib.dll" />
-    <Content Include="DaqLib64.dll" />
     <Content Include="linx-red.ico" />
     <None Include="LinxLogo_small.png" />
-    <Content Include="MccDaq.dll" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
